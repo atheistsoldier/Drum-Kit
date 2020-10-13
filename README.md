@@ -1,2 +1,2 @@
 # Drum-Kit
-A simple website playing various drum sounds
+A simple website for playing various drum sounds
